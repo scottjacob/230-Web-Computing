@@ -1,0 +1,1 @@
+WORKING ALL ROUTES -- needs error code corrections, all valid responses .. deploy https on vm
